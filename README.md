@@ -1,2 +1,3 @@
 # eyes_mediapipe
-![deneme1](https://user-images.githubusercontent.com/97939095/155381745-5012ed4d-166c-40f7-849b-297c1362d000.png)
+
+![eyes](https://user-images.githubusercontent.com/97939095/155382053-d6fdd5e0-d2f0-47d3-aed2-5641b488db74.png)
